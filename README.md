@@ -19,3 +19,6 @@ No aplicativo Upcoming Series cada usuário precisa informar seu nome, sua data 
 
 ![entidades banco de daos](https://cloud.githubusercontent.com/assets/26986888/24823962/c8f3835e-1bda-11e7-8023-04490dc2e92b.png)
 
+Link para o nosso Pitch:
+
+[https://www.powtoon.com/online-presentation/gskhGe3FEa2/?utm_campaign=facebook%2Bshare%2Bby%2Bowner&playOnLoad=1&utm_content=gskhGe3FEa2&utm_source=player-page-social-share&utm_medium=SocialShare&mode=movie](url)
