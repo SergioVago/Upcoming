@@ -1,4 +1,4 @@
-Desenvolvedores: Sergio V. R. de Melo e Criscia de O. Souza
+Desenvolvedores: Sergio V. R. de Melo, Criscia de O. Souza e Ramom Matieli 
 
 # Upcoming Series
 
@@ -13,7 +13,7 @@ Nesse aplicativo, você poderá adicionar suas séries, a quantidade de episódi
 
 # Mini Mundo
 
-No aplicativo Upcoming Series cada usuário precisa informar seu nome, sua data de nascimento, o número do celular, um e-mail e uma senha para criar uma conta. Depois de criar a conta ele pode adicionar a quantidade de séries que quiser, informando o nome da mesma, também pode adicionar a quantidade de episódios e de tempo que falta para que consiga colocá-la em dia. Quando a série estiver em dia o usuário poderá apagar os episódios que já assistiu e começar a escrever de novo os que faltam para assistir, ele também conseguirá informar quando a série for finalizada ou quando entrar em *hiatus, nessa opção ele colocará a data de volta da série. A série marcada como finalizada será excluída do aplicativo e a marcada como hiatus enviará uma mensagem ao celular do usuário no dia em que a série voltar para que ele volte a anotar os episódios caso precise. O administrador só poderá adicionar os episódios caso o usuário autorize. Ele também enviará uma mensagem ao celular do usuário caso ele fique muito tempo sem atualizar a quantidade de episódios ou o tempo que gastará para assisti-los, perguntado se pode atualizá-los. Após atualizar a quantidade de episódios aparecerá a mensagem “Quantidade atualizada”.
+No aplicativo Upcoming Series cada usuário precisa informar seu nome, sua data de nascimento, o número do celular, um e-mail e uma senha para criar uma conta. Todos esses dados serão utilizados para que possamos saber quem está utilizando nosso App. Depois de criar a conta ele pode adicionar a quantidade de séries que quiser, informando o nome da mesma, também pode adicionar a quantidade de episódios e de tempo que falta para que consiga colocá-la em dia. Quando a série estiver em dia o usuário poderá apagar os episódios que já assistiu e começar a escrever de novo os que faltam para assistir, ele também conseguirá informar quando a série for finalizada ou quando entrar em *hiatus, nessa opção ele colocará a data de volta da série. A série marcada como finalizada será excluída do aplicativo e a marcada como hiatus enviará uma mensagem ao celular do usuário no dia em que a série voltar para que ele volte a anotar os episódios caso precise. O administrador só poderá adicionar os episódios caso o usuário autorize. Ele também enviará uma mensagem ao celular do usuário caso ele fique muito tempo sem atualizar a quantidade de episódios ou o tempo que gastará para assisti-los, perguntado se pode atualizá-los. Após atualizar a quantidade de episódios aparecerá a mensagem “Quantidade atualizada”.
 
 *Hiatus: O tempo em que a série fica sem ser exibida
 
