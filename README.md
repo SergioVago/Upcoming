@@ -1,3 +1,5 @@
+(Projeto não finalizado)
+
 Desenvolvedores: Sergio V. R. de Melo, Criscia de O. Souza e Ramom Matieli 
 
 # Upcoming Series
