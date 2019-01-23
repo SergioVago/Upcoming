@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Upcoming Series</string>
+    <string name="suas_s_ries">Suas Série</string>
+    <string name="suas_series">Suas Série</string>
+    <string name="adicionar_nova_serie">Adicionar Nova Série</string>
+    <string name="dura_o_de_cada_epis_dio">Duração de cada Episódio (Em min.)</string>
+    <string name="quantidade_de_epis_dios">Quantidade de Episódios (Máximo 5)</string>
+    <string name="nome_da_s_rie">Nome da Série</string>
+    <string name="adicionar_nova_s_rie">Adicionar Nova Série</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="episodio_x">Episódio X</string>
+    <string name="epsodio_finalizado_pegunta">Epsódio Finalizado?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="epsodio_1">Epsódio 1</string>
+    <string name="epsodio_2">Epsódio 2</string>
+    <string name="epsodio_3">Epsódio 3</string>
+    <string name="epsodio_4">Epsódio 4</string>
+    <string name="epsodio_5">Epsódio 5</string>
+    <string name="epsodios">Epsódios</string>
+    <string name="opcoes">Opções</string>
+    <string name="voltar">Voltar</string>
+    <string name="fon">Nome da Série</string>
+    <string name="duracao">Duração:</string>
+
+</resources>
